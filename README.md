@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 # Valdemir Voltatoni Junior
 
 Olá,meu nome é Valdemir Junior,tenho 22 anos,sou estudante de programação.
-Este é o meu arquivo .md para contribuição no projeto open source da Dio.
 Já programo a algum tempo, ainda estou no mais básico rs, mas estou estudando pra me aprimorar e conseguir uma oportunidade de trabalho na área. Atualmente estou estudando Java, mas já passei pelo Python.
 
 ## 🖥️ Minhas Redes Socias
