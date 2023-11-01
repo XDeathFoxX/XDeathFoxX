@@ -48,5 +48,5 @@ Já programo a algum tempo, ainda estou no mais básico rs, mas estou estudando 
 <div align="center">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="java_logo" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="center" alt="js_logo" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png](https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png)https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png">
+  <img align="center" alt="js_logo" height="30" width="40" src="https://i.pinimg.com/originals/28/75/3d/28753ddf79d70042ba86564947e13bf5.png">
 </div>
