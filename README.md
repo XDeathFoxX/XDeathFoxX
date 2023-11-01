@@ -47,5 +47,6 @@ Já programo a algum tempo, ainda estou no mais básico rs, mas estou estudando 
 <div style="display: inline_block"><br>
 <div align="center">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="java_logo" heigjt="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  <img align="center" alt="java_logo" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  <img align="center" alt="js_logo" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
 </div>
