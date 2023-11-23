@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![programador](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
+
 # Valdemir Voltatoni Junior
 
 Olá,meu nome é Valdemir Junior,tenho 22 anos,sou estudante de programação.
