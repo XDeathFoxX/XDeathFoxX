@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Valdemir Voltatoni Junior
 
-Olá,meu nome é Valdemir Junior,tenho 23 anos,sou estudante de programação.
+Olá,meu nome é Valdemir Junior,tenho 25 anos,sou estudante de programação.
 Já programo a algum tempo, ainda estou no mais básico rs, mas estou estudando pra me aprimorar e conseguir uma oportunidade de trabalho na área. Atualmente estou estudando Java, mas já passei pelo Python.
 
 ## 🖥️ Minhas Redes Socias
