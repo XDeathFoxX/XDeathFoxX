@@ -40,12 +40,6 @@ Já programo a algum tempo, ainda estou no mais básico rs, mas estou estudando 
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## GitHub Stats
-<div align="center">
-  <a href="https://github.com/XDeathFoxX">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XDeathFoxX&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDeathFoxX&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <div style="display: inline_block"><br>
 <div align="center">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
